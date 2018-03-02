@@ -27,13 +27,11 @@ The demonstration allows a view of the ledger that stores all the interactions t
 
 ####Stages:####
 ###Example
-* Item 1
-* Item 2
-  * Sub Item 1
-  * Sub Item 2Ingredient is created by the Farmer.
-Ingredient is sold to the Aggregator.
-Aggregator updates the ingredient with the batch information.
-Aggregator then sells the updated ingredient to the Manufacturer. 
+* Ingredient is created by the Farmer.
+* Ingredient is sold to the Aggregator.
+* Aggregator updates the ingredient with the batch information.
+* Aggregator then sells the updated ingredient to the Manufacturer. 
+
 Manufacturer then takes the ingredient and/or other products to create their final product.
 Manufacturer then sells final product to Vendor to be sold to the consumer. 
 Regulator (FDA) would be able perform oversight over this whole process if needed.
