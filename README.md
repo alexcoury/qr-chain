@@ -26,7 +26,11 @@ The demonstration allows a view of the ledger that stores all the interactions t
 
 
 ####Stages:####
- Markup : * Ingredient is created by the Farmer.
+###Example
+* Item 1
+* Item 2
+  * Sub Item 1
+  * Sub Item 2Ingredient is created by the Farmer.
 Ingredient is sold to the Aggregator.
 Aggregator updates the ingredient with the batch information.
 Aggregator then sells the updated ingredient to the Manufacturer. 
