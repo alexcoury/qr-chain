@@ -20,6 +20,7 @@ The demonstration allows a view of the ledger that stores all the interactions t
 
 ##Application scenario## The project goes through the lifecycle of the food supply chain which has the following stages:
 
+![alt text](blockchain-flow-of-control.png)
 
 
 
