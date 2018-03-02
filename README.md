@@ -15,7 +15,7 @@ The application is designed to allow participants to interact with the ingredien
 | Regulator | Read (Products & Ingredients)|
 
 
-The demonstration allows a view of the ledger that stores all the interactions that the above participants have has with their assets. The ledger view shows the regulator every transaction that has occurred showing who tried to to what at what time and to which vehicle. The ledger view also allows the user to see transactions that they were involved with as well as showing the interactions with the assets they own before they owned them e.g. they can see when it was created.
+The demonstration allows a view of the ledger that stores all the interactions that the above participants have has with their assets. The ledger view shows the regulator every transaction that has occurred showing who tried to to what at what time and to which product and ingredient. The ledger view also allows the user to see transactions that they were involved with as well as showing the interactions with the assets they own before they owned them e.g. they can see when it was created.
 
 
 ##Application scenario## The project goes through the lifecycle of the food supply chain which has the following stages:
