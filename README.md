@@ -36,5 +36,5 @@ Regulator (FDA) would be able perform oversight over this whole process if neede
 
 ##Component model## This project is built using a 3 tier architecture. The user interacts with the blockchain using a web front end that is provided by the NodeJS server in the middle tier. This web front end uses JavaScript to make HTTP requests to the NodeJS server which has an API which in turn makes calls via HTTP to the HyperLedger fabric to get details about the blockchain and also interact with the chaincode.
 
-![alt text](http://url/to/img.png)
+![alt text](chaincode.png)
 
