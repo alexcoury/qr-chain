@@ -3,8 +3,8 @@ Our goal at QRChain is to increase the transparency of the food supply chain.
 
 | Participants | Permissions |
 | --- | --- |
-| Farmer | Create, Read, Update(can only update made ingredients), Delete(can only delete made ingredients)|
-| Aggregator | Show file differences that haven't been staged |
-| Manufacturer | List all new or modified files |
-| Vendor | Show file differences that haven't been staged |
-| Regulator | Show file differences that haven't been staged |
+| Farmer | Create, Read, Update (Own ingredients), Delete (Own ingredients)|
+| Aggregator | Read (Own ingredients), Update (Batch) |
+| Manufacturer | Read (Own Ingredients/Products), Create, Delete, Update (Own Products) |
+| Vendor | Read (Owned Products)|
+| Regulator | Read (Products & Ingredients)|
