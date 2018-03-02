@@ -25,17 +25,15 @@ The demonstration allows a view of the ledger that stores all the interactions t
 
 
 
-####Stages:####
-###Example
+
+###Stages:
 * Ingredient is created by the Farmer.
 * Ingredient is sold to the Aggregator.
 * Aggregator updates the ingredient with the batch information.
 * Aggregator then sells the updated ingredient to the Manufacturer. 
-
-Manufacturer then takes the ingredient and/or other products to create their final product.
-Manufacturer then sells final product to Vendor to be sold to the consumer. 
-Regulator (FDA) would be able perform oversight over this whole process if needed.
-
+* Manufacturer then takes the ingredient and/or other products to create their final product.
+* Manufacturer then sells final product to Vendor to be sold to the consumer.
+* Regulator (FDA) would be able perform oversight over this whole process if needed.
 
 ##Component model## This project is built using a 3 tier architecture. The user interacts with the blockchain using a web front end that is provided by the NodeJS server in the middle tier. This web front end uses JavaScript to make HTTP requests to the NodeJS server which has an API which in turn makes calls via HTTP to the HyperLedger fabric to get details about the blockchain and also interact with the chaincode.
 
