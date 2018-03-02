@@ -3,6 +3,7 @@ Our goal at QRChain is to increase the transparency of the food supply chain.
 
 
 The application is designed to allow participants to interact with the ingredient & product assets creating, updating and transferring them as their permissions allow. The participants included in the application are as follows:
+
 | Participants | Permissions |
 | --- | --- |
 | Farmer | Create, Read, Update (Own ingredients), Delete (Own ingredients)|
