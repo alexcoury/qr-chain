@@ -1,5 +1,5 @@
 # qr-chain
-Our goal at QRChain is to increase the transparency of the food supply chain.
+QRChain is to increase the transparency of the food supply chain.
 
 
 ##Application overview## This application is designed to demonstrate how food can leverage the Blockchain using the food supply chain to create transparency for the consumer.
